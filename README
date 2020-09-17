@@ -1,0 +1,4 @@
+Para ejecutar el script ingrese en la carpeta __pycache__, seguidamente ejecute el archivo llamado "main.cpython-37".
+Una vez dentro se le abrirá la consola y se le solicitara que ingrese el ID del vendedor que desea ver sus artículos, cuando desee salir del script simplemente escriba "exit" al
+momento que se le pide un ID.
+Todo los artículos quedarán registrados en el archivo .txt llamado SystemLOG, puede consultarlo en cualquier momento.
