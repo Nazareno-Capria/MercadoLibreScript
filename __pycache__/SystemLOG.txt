@@ -1,0 +1,50 @@
+ID: MLA870592467 | Título: Router Linksys E2500 Negro 1 Unidad | ID Categoría: MLA430901 | Nombre categoría: Routers
+ID: MLA740540307 | Título: Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos | ID Categoría: MLA1649 | Nombre categoría: PC
+ID: MLA663208480 | Título: Notebook Laptop Dell Inspiron I5 16g 256ssd Ubuntu Ram | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA614270244 | Título: Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA838441150 | Título: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia | ID Categoría: MLA1649 | Nombre categoría: PC
+ID: MLA836303021 | Título: Notebook Dell Latitude I5 16gb 256ssd 14 Win10 Pro Ram | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA878634067 | Título: Ups Apc Bv800i - Ahora En Cuotas Sin Interes | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA625205834 | Título: Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA702423108 | Título: Pc De Escritorio Dell I5 8gb Hd 1tb Win10 Pro Vostro Ram Para Uso Hogar Y Empresa - Garantia Oficial | ID Categoría: MLA1649 | Nombre categoría: PC
+ID: MLA609550688 | Título: Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA812781294 | Título: Notebook Dell Vostro I5 16gb 256ssd 14hd Win10 Profesional | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA620000215 | Título: Router Wifi Linksys Dual Band 2 Antenas Usb 3.0 Conectar Equipos De Hogar Y Empresas Gtia Oficial  Factura A Y B | ID Categoría: MLA430901 | Nombre categoría: Routers
+ID: MLA862050665 | Título: Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas | ID Categoría: MLA1649 | Nombre categoría: PC
+ID: MLA846185645 | Título: Iris Pen Air 7 Lapiz Escaner Portátil Usb Ocr Traductor | ID Categoría: MLA72721 | Nombre categoría: Scanners
+ID: MLA830190937 | Título: Notebook Lapto Dell I3 16gb 1tb + Ssd 480gb Win10 Oferta | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA814217735 | Título: Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130 | ID Categoría: MLA1649 | Nombre categoría: PC
+ID: MLA619242948 | Título: Router Wifi Linksys Dual Band 600mbps 802.11n Usb | ID Categoría: MLA430901 | Nombre categoría: Routers
+ID: MLA839086917 | Título: Router Linksys Ea8300 Tri Band Wifi Ac2200 Mu-mino Oferta | ID Categoría: MLA430901 | Nombre categoría: Routers
+ID: MLA654228009 | Título: Pc Dell Optiplex Intel I5 4gb 1tb Windows 10 Pro Oferta | ID Categoría: MLA1649 | Nombre categoría: PC
+ID: MLA739200576 | Título: Notebook Dell Latitude I5 16gb 256gb Ssd Win10p Oferta Ram | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA864665962 | Título: Escaner Iris Desk Pro 5 Ideal Libros Documentos Usb | ID Categoría: MLA72721 | Nombre categoría: Scanners
+ID: MLA619999038 | Título: Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA800415301 | Título: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130 | ID Categoría: MLA1649 | Nombre categoría: PC
+ID: MLA833393643 | Título: Notebook Laptop Dell Inspiron I5 10g 8g 256gb Ubuntu Oferta | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA689148569 | Título: Switch 8 Bocas Cisco 8 Puertos 10/100mbps Para Hogar Y Empresa - Garantia Oficial - Factura A Y B | ID Categoría: MLA1708 | Nombre categoría: Switches
+ID: MLA634471245 | Título: Scanner Portátil De Mano Iris Book 3 Iriscan Ocr Microsd Usb | ID Categoría: MLA72721 | Nombre categoría: Scanners
+ID: MLA872001640 | Título: Pc Vostro Dell I5 8gb Hd 1tb Win10p + Monitor Cuotas | ID Categoría: MLA1649 | Nombre categoría: PC
+ID: MLA870125549 | Título: Notebook Laptop Dell Inspiron I5 16g 256ssd + 1tb Ubuntu Ram | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA665986505 | Título: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130 | ID Categoría: MLA1649 | Nombre categoría: PC
+ID: MLA863064747 | Título: Router Linksys Wifi Ea7300 Mimo Smart Router Ac1750 | ID Categoría: MLA430901 | Nombre categoría: Routers
+ID: MLA838954057 | Título: Router Linksys Wifi Ea7300 Mimo Smart Router Ac1750 | ID Categoría: MLA430901 | Nombre categoría: Routers
+ID: MLA824929193 | Título: Toner Lexmark Original 504 1.500p Ms 310/610/415 Standard | ID Categoría: MLA3560 | Nombre categoría: Tóners
+ID: MLA868003475 | Título: Notebook Dell Latitude I5 32gb 256ssd 14 Win10 Pro Ram | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA609116302 | Título: Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA609714710 | Título: Ups Apc 900va Back-ups 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial 2años Br900 Para Tv, Play, Pc | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA790641629 | Título: Monitor Dell 24 Profesional P2419h - Modelo Nuevo! Ex-p2417h | ID Categoría: MLA14407 | Nombre categoría: Monitores
+ID: MLA857018527 | Título: Notebook Laptop Dell Inspiron I5 16g 256ssd Ubuntu Ram | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA678026676 | Título: Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B | ID Categoría: MLA1708 | Nombre categoría: Switches
+ID: MLA876594670 | Título: Router Acces Point Velop Wifi Linksys Para El Hogar Ac2200 | ID Categoría: MLA430901 | Nombre categoría: Routers
+ID: MLA817037109 | Título: Unidad Imagen Lexmark Linea Mb/ms/mx 60000p 56f0z00 | ID Categoría: MLA3560 | Nombre categoría: Tóners
+ID: MLA604049998 | Título: Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650 | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA677347584 | Título: Notebook Dell Inspiron I3 8gb 1tb 14 Win 10 Teclado Con Ñ Garantia De Tienda Oficial - Factura A Y B Ram | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA846968526 | Título: Ups Apc Bv1000 Estabilza Y Protege Tensión Entrega Inmediata | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA723629779 | Título: Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA665048554 | Título: Escaner Kodak Scanmate I940 Portatil De Mano Duplex 20ppm | ID Categoría: MLA72721 | Nombre categoría: Scanners
+ID: MLA604317175 | Título: Ups Apc 800va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial De 2 Años Para Gamer Bx800 Para Tv, Play | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA680636274 | Título: Router Linksys Mimo smart wifi router ac1750 Gamer Rompemuros Dual Band Gtia Oficial - Factura A Y B | ID Categoría: MLA430901 | Nombre categoría: Routers
+ID: MLA669761931 | Título: Notebook Dell Latitude I5 8gb 256ssd 14 Win10 Profesional - Ideal Para Pymes Con Garantia Oficial De 3 Años | ID Categoría: MLA1652 | Nombre categoría: Notebooks
+ID: MLA839633052 | Título: Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años | ID Categoría: MLA1720 | Nombre categoría: UPS
+ID: MLA838039921 | Título: Ups Apc Bv800i-ar 800v 4t Estabilizador Pc Gamer Simil Bx800 | ID Categoría: MLA1720 | Nombre categoría: UPS
